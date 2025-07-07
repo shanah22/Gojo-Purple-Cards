@@ -113,7 +113,6 @@ body {
   color: white; /* White text */
   font-weight: 400; /* Make text bolder */
   cursor: pointer; /* Mouse becomes pointer when hovered */
-  transition: background 0.3s; /* Smooth color change on hover */
   font-family: Kirang Haerang;
   font-size: medium;
 
@@ -129,7 +128,6 @@ body {
   color: white;
   font-weight: 400;
   cursor: pointer;
-  transition: background 0.3s;
   font-family: Kirang Haerang;
   font-size: medium;
 }
